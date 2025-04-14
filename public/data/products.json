@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Phone",
+        "description": "Smartphone with 128GB storage",
+        "price": 699
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "description": "14 inch laptop, 8GB RAM",
+        "price": 999
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Noise cancelling",
+        "price": 199
+    },
+    {
+        "id": 4,
+        "name": "Earbuds",
+        "description": "Earbuds with Noise cancellation",
+        "price": 799
+    },
+    {
+        "id": 5,
+        "name": "Mouse",
+        "description": "Wireless Mouse",
+        "price": 99
+    },
+    {
+        "id": 6,
+        "name": "Keyboard",
+        "description": "Wireless Keyboard",
+        "price": 299
+    }
+]
